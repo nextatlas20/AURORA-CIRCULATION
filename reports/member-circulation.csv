@@ -1,0 +1,4 @@
+member_id,member_name,loan_limit,valid_checkouts,open_loans,returned_loans,overdue_open_loans,fee_cents
+M-ALBA,Alba Reed,2,3,3,0,3,3800
+M-BASIL,Basil Noor,1,1,0,1,0,0
+M-CORA,Cora Venn,3,1,1,0,0,0

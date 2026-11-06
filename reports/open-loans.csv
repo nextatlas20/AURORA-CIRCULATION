@@ -1,0 +1,5 @@
+checkout_id,member_id,member_name,title_id,title,checked_out_on,due_on,overdue_days,fee_cents
+C-01,M-ALBA,Alba Reed,BK-101,Atlas,2026-05-01,2026-05-15,3,600
+C-09,M-ALBA,Alba Reed,BK-205,Brass,2026-05-02,2026-05-08,10,2000
+C-10,M-ALBA,Alba Reed,BK-310,Cinder,2026-05-05,2026-05-12,6,1200
+C-12,M-CORA,Cora Venn,BK-310,Cinder,2026-05-10,2026-05-25,0,0
